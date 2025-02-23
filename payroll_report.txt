@@ -1,0 +1,4 @@
+--- Payroll Report ---
+Total Employees: 5
+Total Salary: 1450000.0
+Average Salary: 290000.0
